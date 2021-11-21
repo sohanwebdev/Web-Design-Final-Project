@@ -1449,8 +1449,7 @@ input:focus{
 /**--== contact section end ==--*/
 #contact{
     background-color: #0791BE;
-    height: 70vh;
-    overflow: hidden;
+    height: 60vh;
 }
 #contact .contact_left{
     overflow: hidden;
